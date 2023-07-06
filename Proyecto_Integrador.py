@@ -12,7 +12,7 @@ def main():
         print(key)
         
         # Verificar si el carácter presionado es la flecha hacia arriba
-        if key =='W':  # Código de escape para la flecha hacia arriba
+        if key =='W':  # Código de escape para la flecha hacia arriba, con teclas WASD por configuracion del teclado
             break
 
 if __name__ == '__main__':
